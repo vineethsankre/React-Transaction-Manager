@@ -1,0 +1,33 @@
+.money-details-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 0px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.list-item {
+  border-radius: 16px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.money-image {
+  width: 60px;
+  height: 60px;
+  margin-right: 25px;
+}
+.green {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+}
+.blue {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+}
+.purple {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+}
